@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Atividade_2.Properties
+namespace Atividade2.Properties
 {
 
 
