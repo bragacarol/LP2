@@ -1,0 +1,9 @@
+c:\users\aluno\documents\visual studio 2013\Projects\PTriangulo\PTriangulo\bin\Debug\PTriangulo.exe.config
+c:\users\aluno\documents\visual studio 2013\Projects\PTriangulo\PTriangulo\bin\Debug\PTriangulo.exe
+c:\users\aluno\documents\visual studio 2013\Projects\PTriangulo\PTriangulo\bin\Debug\PTriangulo.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\PTriangulo\PTriangulo\obj\Debug\PTriangulo.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2013\Projects\PTriangulo\PTriangulo\obj\Debug\PTriangulo.Form1.resources
+c:\users\aluno\documents\visual studio 2013\Projects\PTriangulo\PTriangulo\obj\Debug\PTriangulo.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2013\Projects\PTriangulo\PTriangulo\obj\Debug\PTriangulo.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2013\Projects\PTriangulo\PTriangulo\obj\Debug\PTriangulo.exe
+c:\users\aluno\documents\visual studio 2013\Projects\PTriangulo\PTriangulo\obj\Debug\PTriangulo.pdb
