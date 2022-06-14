@@ -1,0 +1,31 @@
+c:\users\0030482121048\documents\visual studio 2013\Projects\PFerramenta\PFerramenta\bin\Debug\PFerramenta.exe.config
+c:\users\0030482121048\documents\visual studio 2013\Projects\PFerramenta\PFerramenta\bin\Debug\PFerramenta.exe
+c:\users\0030482121048\documents\visual studio 2013\Projects\PFerramenta\PFerramenta\bin\Debug\PFerramenta.pdb
+c:\users\0030482121048\documents\visual studio 2013\Projects\PFerramenta\PFerramenta\obj\Debug\PFerramenta.csprojResolveAssemblyReference.cache
+c:\users\0030482121048\documents\visual studio 2013\Projects\PFerramenta\PFerramenta\obj\Debug\PFerramenta.Form1.resources
+c:\users\0030482121048\documents\visual studio 2013\Projects\PFerramenta\PFerramenta\obj\Debug\PFerramenta.Properties.Resources.resources
+c:\users\0030482121048\documents\visual studio 2013\Projects\PFerramenta\PFerramenta\obj\Debug\PFerramenta.csproj.GenerateResource.Cache
+c:\users\0030482121048\documents\visual studio 2013\Projects\PFerramenta\PFerramenta\obj\Debug\PFerramenta.exe
+c:\users\0030482121048\documents\visual studio 2013\Projects\PFerramenta\PFerramenta\obj\Debug\PFerramenta.pdb
+C:\Users\0030482121048\Desktop\PFerramenta-20220614T111205Z-001\PFerramenta\PFerramenta\bin\Debug\PFerramenta.exe.config
+C:\Users\0030482121048\Desktop\PFerramenta-20220614T111205Z-001\PFerramenta\PFerramenta\obj\Debug\PFerramenta.exe
+C:\Users\0030482121048\Desktop\PFerramenta-20220614T111205Z-001\PFerramenta\PFerramenta\obj\Debug\PFerramenta.pdb
+C:\Users\0030482121048\Desktop\PFerramenta-20220614T111205Z-001\PFerramenta\PFerramenta\obj\Debug\PFerramenta.csprojResolveAssemblyReference.cache
+C:\Users\0030482121048\Desktop\PFerramenta-20220614T111205Z-001\PFerramenta\PFerramenta\obj\Debug\PFerramenta.cadastroFerramentas.resources
+C:\Users\0030482121048\Desktop\PFerramenta-20220614T111205Z-001\PFerramenta\PFerramenta\obj\Debug\PFerramenta.Form1.resources
+C:\Users\0030482121048\Desktop\PFerramenta-20220614T111205Z-001\PFerramenta\PFerramenta\obj\Debug\PFerramenta.Properties.Resources.resources
+C:\Users\0030482121048\Desktop\PFerramenta-20220614T111205Z-001\PFerramenta\PFerramenta\obj\Debug\PFerramenta.csproj.GenerateResource.Cache
+C:\Users\0030482121048\Desktop\PFerramenta-20220614T111205Z-001\PFerramenta\PFerramenta\bin\Debug\PFerramenta.exe
+C:\Users\0030482121048\Desktop\PFerramenta-20220614T111205Z-001\PFerramenta\PFerramenta\bin\Debug\PFerramenta.pdb
+C:\Users\0030482121048\Desktop\PFerramenta-20220614T111205Z-001\PFerramenta\PFerramenta\obj\Debug\PFerramenta.sobre.resources
+C:\Users\0030482121048\Desktop\PFerramenta\PFerramenta\PFerramenta\bin\Debug\PFerramenta.exe.config
+C:\Users\0030482121048\Desktop\PFerramenta\PFerramenta\PFerramenta\obj\Debug\PFerramenta.exe
+C:\Users\0030482121048\Desktop\PFerramenta\PFerramenta\PFerramenta\obj\Debug\PFerramenta.pdb
+C:\Users\0030482121048\Desktop\PFerramenta\PFerramenta\PFerramenta\bin\Debug\PFerramenta.exe
+C:\Users\0030482121048\Desktop\PFerramenta\PFerramenta\PFerramenta\bin\Debug\PFerramenta.pdb
+C:\Users\0030482121048\Desktop\PFerramenta\PFerramenta\PFerramenta\obj\Debug\PFerramenta.csprojResolveAssemblyReference.cache
+C:\Users\0030482121048\Desktop\PFerramenta\PFerramenta\PFerramenta\obj\Debug\PFerramenta.cadastroFerramentas.resources
+C:\Users\0030482121048\Desktop\PFerramenta\PFerramenta\PFerramenta\obj\Debug\PFerramenta.Form1.resources
+C:\Users\0030482121048\Desktop\PFerramenta\PFerramenta\PFerramenta\obj\Debug\PFerramenta.Properties.Resources.resources
+C:\Users\0030482121048\Desktop\PFerramenta\PFerramenta\PFerramenta\obj\Debug\PFerramenta.sobre.resources
+C:\Users\0030482121048\Desktop\PFerramenta\PFerramenta\PFerramenta\obj\Debug\PFerramenta.csproj.GenerateResource.Cache
